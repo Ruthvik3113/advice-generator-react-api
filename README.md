@@ -4,7 +4,7 @@
 
 This is a simple web application that generates random quotes of advice using the Advice Slip API. It's a perfect project for those who are learning how to interact with third-party APIs.
 
-### Link: https://ruthvik3113.github.io/advice-generator/
+### Link: https://advice-mentor-ruthvik.netlify.app/
 
 ## Features
 1. Randomly generates advice quotes.
